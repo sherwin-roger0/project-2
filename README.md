@@ -1,10 +1,9 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+AN INTELLIGENT CROP RECOMMENDATION FOR SUSTAINABLE FARMING USING STACKED ENSEMBLE LEARNING.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Modern agriculture relies heavily on crop recommendations for farmers to make informed decisions about the suitable crops to plant. Machine learning techniques have shown great promise in revolutionizing agricultural decision- making processes. Several machine learning techniques, such as Multilayer Perveptron (MLP), Random Forests (RFA), and Support Vector Machine (SVM), were utilized for this purpose. 
 
 ## Features
 <!--List the features of the project as shown below-->
@@ -27,7 +26,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/sherwin-roger0/project-2/assets/50732268/d8b4c5e4-fcef-42e1-88f3-1edb85a62701)
 
 
 ## Output
@@ -35,24 +34,20 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/sherwin-roger0/project-2/assets/50732268/a257444b-54a4-4add-bee1-0fd1845ceb41)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The project's contribution lies in the evolution of the agricultural aid system in India, addressing the pressing need for user-friendly and supportive farming assistance systems. By offering an intuitive interface and guaranteed support, the chatbot facilitates easy access to essential agricultural knowledge and resources, ultimately enhancing the overall efficiency and sustainability of India's agricultural practices.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+    [1] Ajoodha, R., Mufamadi, T.O,Crop Recommendation Using Machine Learning Algorithms and Soil Attributes Data. In: Mathur, G., Bundele, M., Tripathi, A., Paprzycki, M. (eds) Proceedings of 3rd International Conference on Artificial Intelligence: Advances and Applications. Algorithms for Intelligent Systems. Springer, Singapore,2023, https://doi.org/10.1007/978-981-19-7041-2_3.
+
+    [2] Altieri, M. A., & Norgaard, R. B, Agroecology: The scientific basis of alternative agriculture. Boulder,1987, Colo: Westview Press.
+
+    [3] Anshal Savla, Parul Dhawan, Himtanaya Bhadada, Nivedita Israni, Alisha Mandholia, Sanya Bhardwaj, Survey of classification algorithms for formulating yield prediction accuracy in precision agriculture, Innovations in Information, Embedded and Communication Systems (ICIIECS),2015.
 
 
 
